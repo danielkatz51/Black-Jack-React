@@ -1,0 +1,5 @@
+.Table-container{
+    height: 100vh;
+    background-image: url('../../BackGround-img/background_img.jpg');
+    background-size: cover;
+}
