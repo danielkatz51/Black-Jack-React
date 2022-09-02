@@ -1,0 +1,8 @@
+.player-container{
+    position: relative;
+    left: 20%;
+    top: 15%;
+    display: flex;
+    width: 50%;
+    height: 350px;
+}

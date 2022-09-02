@@ -1,7 +1,6 @@
 .dealer-container{
     position: relative;
     left: 20%;
-    top: 15%;
     width: max-content;
-    border: 1px solid red;
+    height: 350px;
 }
