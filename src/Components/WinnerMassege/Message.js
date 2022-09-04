@@ -1,5 +1,6 @@
 import React from "react";
 import "./Message.css";
+//Popup message for who won the round
 function Message(props) {
   return (
     <div className={props.messageActive}>
